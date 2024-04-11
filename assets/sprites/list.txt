@@ -1,0 +1,4 @@
+rg-comp-joy-base
+rg-comp-joy-stick
+rg-comp-button-off
+rg-comp-button-on
